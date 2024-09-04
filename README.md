@@ -6,7 +6,7 @@
 
 IIP is an acronym for "Internal IP." It is a lightweight C++ command-line tool designed to efficiently retrieve internal IP addresses from a Linux system. It provides a straightforward and reliable method for obtaining this information. Though it's not verbose in output, it gets to the heart of the matter, and just gives you what you need.
 
-This tool is quick and distills the output to the info you need.<br>
+This tool is quick and distills the output for you.<br>
 It relies on the output of standard Linux command ```ip addr show``` to deliver the goods.
 
 **Features:**
