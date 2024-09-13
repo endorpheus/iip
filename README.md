@@ -22,7 +22,7 @@ Clone the repository:
 Bash
 
 ```bash
-    git clone https://github.com/your_username/iip
+    git clone https://github.com/endorpheus/iip
 ```
 
 Use code with caution.
